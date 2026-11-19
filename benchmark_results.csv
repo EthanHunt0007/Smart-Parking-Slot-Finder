@@ -1,0 +1,13 @@
+Layout,Algorithm,Status,Path Length,Nodes Explored,Average Time (ms)
+Default,BFS,PASS,16,73,0.09854
+Default,DFS,PASS,36,37,0.080076
+Default,Greedy,PASS,18,19,0.061964
+Default,A*,PASS,16,39,0.163763
+Easy,BFS,PASS,16,75,0.116204
+Easy,DFS,PASS,34,35,0.056319
+Easy,Greedy,PASS,16,17,0.084881
+Easy,A*,PASS,16,51,0.262142
+Crowded,BFS,PASS,16,62,0.095047
+Crowded,DFS,PASS,16,18,0.027949
+Crowded,Greedy,PASS,18,19,0.053347
+Crowded,A*,PASS,16,30,0.120648
