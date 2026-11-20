@@ -55,7 +55,7 @@ Smart-Parking-Slot-Finder/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
+git clone <https://github.com/EthanHunt0007/Smart-Parking-Slot-Finder>
 ```
 
 ### 2. Navigate to the project directory
